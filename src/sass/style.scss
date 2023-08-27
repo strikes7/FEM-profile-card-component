@@ -3,8 +3,8 @@
 body {
   font-family: "Kumbh Sans", sans-serif;
   background-color: $clr-bg-primary;
-  background-image: url("/images/bg-pattern-top.svg"),
-    url("/images/bg-pattern-bottom.svg");
+  background-image: url("../images/bg-pattern-top.svg"),
+    url("../images/bg-pattern-bottom.svg");
   background-size: 100%, 70%;
   background-position: -48vmax -59vmax, 47vmax 27vmax;
   background-repeat: no-repeat;
